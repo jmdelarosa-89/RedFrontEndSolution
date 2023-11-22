@@ -18,7 +18,7 @@
 
 $.datepicker.setDefaults($.datepicker.regional["es"]);
 
-const Api = "https://localhost:44366/API/";
+const Api = "http://localhost:5004/API/";
 
 const Send = function (type, url, msg, callback) {
     $.ajax({
