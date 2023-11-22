@@ -1,0 +1,78 @@
+﻿@model RedFrontEndApp.Models.FiltroUsuariosModel
+@{
+    ViewData["Title"] = "Listado de usuarios";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="@Url.Content("~/js/ListadoUsuarios.js")"></script>
+
+@*Div Principal*@
+<div class="ChildContent">
+    <br />
+    <br />
+    @*Div Filtros*@
+    @using (Html.BeginForm("", "", FormMethod.Post, new { id = "FiltroUsuario", name = "FiltroUsuario" }))
+    {
+        <div id="Filtros" class="table-responsive-sm shadow p-3 mb-3 bg-white rounded mb-1">
+            <h4 class="w-100 p-2">@ViewBag.Title</h4>
+            <div id="AlertMainContainer" class="AlertMainContainer" style="display:none;"></div>
+            <div class="ContentTable">
+                <div class="ContentRow">
+                    <div class="ContentCell text-left">
+                        @Html.TextBoxFor(m => m.Email, new { @placeholder = "Email", @class = "fadeIn second form-control", @autocomplete = "alguien@mail.com" })<br />
+                        @Html.ValidationMessageFor(m => m.Email)
+                    </div>
+                    <div class="ContentCell text-left">
+                        @Html.TextBoxFor(m => m.Nombre, new { @placeholder = "Nombre de usuario", @class = "fadeIn second form-control", @autocomplete = "Nombre de usuario" })<br />
+                        @Html.ValidationMessageFor(m => m.Nombre)
+                    </div>
+                    <div class="ContentCell text-left">
+                        @Html.TextBoxFor(m => m.ApellidoPaterno, new { @placeholder = "Apellido paterno", @class = "fadeIn second form-control", @autocomplete = "Nombre de usuario" })<br />
+                        @Html.ValidationMessageFor(m => m.ApellidoPaterno)
+                    </div>
+                    <div class="ContentCell text-right">
+                        <br />
+                        <a id="Cmd_Buscar" data-url="Usuarios" data-elimina="Usuario" class="btn btn-success btn-lg text-light"><i class="fa fa-compass"></i> Buscar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div id="AlertMainContainer" class="AlertMainContainer" style="display:none;"></div>
+
+    <div class="table-responsive-sm shadow p-3 mb-2 bg-white rounded mb-1">
+        <div class="ContentTable">
+            <div id="Botones" class="ContentRow">
+                <div class="ContentRow text-right">
+                    <a id="Cmd_Nuevo" class="btn btn-success text-light w-auto small">Nuevo usuario</a>
+                </div>
+            </div>
+        </div>
+        <div class="ContentTable text-center bg-dark" style="margin: 0; padding: 0; width: 100%; border-spacing: 0; color: white;">
+            <div class="ContentRow">
+                <h5 style="margin: 0.5rem;">Listado de usuarios</h5>
+            </div>
+            <table id="Gv_Usuarios" class="table table-striped" style="width:100%;" data-url="Usuario">
+                <thead class="thead-dark">
+                    <tr>
+                        <th></th>
+                        <th></th>
+                        <th>Nombre</th>
+                        <th>Paterno</th>
+                        <th>Materno</th>
+                        <th>Edad</th>
+                        <th>Correo</th>
+                        <th>Telefono</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td colspan="3"> Listado de usuarios </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,46 @@
+﻿/* weekLine dark css*/
+
+.weekDays {
+	margin-top: auto !important;
+	width: 100% !important;
+	height: calc(1.5em + 0.75rem + 2px) !important;
+	font-weight: normal;
+}
+
+.weekDays a {
+	padding: 2px 3px !important;
+	color: #1b6ec2 !important;
+	border-style: solid !important;
+	border-width: 1px !important;
+	border-color: #1b6ec2 !important;
+	border-radius: 20% !important;
+	text-decoration: none !important;
+	font-family: "courier new" !important;
+	margin: 0 0.25rem !important;
+}
+
+.weekDays a.is-invalid {
+	color: #dc3545 !important;
+	border-color: #dc3545 !important;
+}
+
+.weekDays a:hover {
+	border-style: solid !important;
+	border-radius: 20% !important;
+	border-width: 2px !important;
+	border-color: #1b6ec2 !important;
+	text-decoration: none !important;
+	padding: 2px 1px !important;
+	font-weight: bold;
+}
+
+.weekDays .selectedDay {
+	border-style: solid !important;
+	border-radius: 20% !important;
+	border-width: 1px !important;
+	border-color: #1b6ec2 !important;
+	color: white !important;
+	background-color: #1b6ec2 !important;
+	padding: 2px !important;
+	font-weight: normal;
+}

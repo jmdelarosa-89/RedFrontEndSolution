@@ -1,0 +1,31 @@
+﻿@model RedFrontEndApp.Models.LoginModel
+@{
+    ViewData["Title"] = "Bienvenido";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="@Url.Content("~/css/Seguridad/Login.css")" rel="stylesheet" />
+<script src="@Url.Content("~/js/Login.js")"></script>
+<div class="wrapper fadeInDown Absolute-Center">
+    @using (Html.BeginForm("", "", FormMethod.Post, new { id = "FrmLogon", name = "FrmLogon" }))
+    {
+        <div id="formContent">
+            <div id="formHeader">
+                <div class="fadeIn first">
+                    <h4>Bienvenido</h4>
+                </div>
+            </div>
+            <div class="form-group">
+                <br />
+                <div id="LoginGroup">
+                    @Html.TextBoxFor(m => m.Email, new { @placeholder = "Usuario", @class = "fadeIn second form-control", @autocomplete = "username" })<br />
+                    @Html.ValidationMessageFor(m => m.Email)
+                    @Html.PasswordFor(m => m.Password, new { @placeholder = @Html.DisplayNameFor(m => m.Password), @class = "fadeIn third form-control", @autocomplete = "password" })<br />
+                    @Html.ValidationMessageFor(m => m.Password)<br />
+                    <input id="CmdLogin" type="submit" class="fadeIn fourth" value="Iniciar Sesion" data-url="Seguridad/Login" data-home="@Url.Action("Listado","Usuarios")">
+                </div>
+                <img id="Procesando" style="display:none; height:35px !important;" src="~/images/gif/loading.gif" /><br />
+                <a id="ErrMensaje" class="text-danger"></a>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,589 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+/*
+    Estilos de tablas
+    Estilos de nav
+    Estilos de sidebar
+    Estilos de modals
+    Estilos de recuadros de alertas
+    Estilos de form-control
+    Estilos de Content
+*/
+
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0.25rem !important;
+}
+
+label {
+    margin-bottom: 0.25rem !important;
+}
+
+/*Estilos de tablas*/
+.table th {
+    padding: 0.5rem !important;
+}
+
+.table td {
+    padding: 0.5rem !important;
+}
+
+/*Estilos Nav*/
+
+.nav {
+    padding-right: 0.5rem;
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+.tab-content {
+    border: 1px solid #dee2e6;
+    padding: 0.25rem;
+    width: 100%;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav.flex-column {
+    border-bottom: 1px solid transparent !important;
+}
+
+.nav-link {
+    /*background-color: #fff !important;*/
+    color: #d3d3d4 !important;
+    /*border-color: #dee2e6 !important;*/
+    font-weight: bold;
+}
+
+    .nav-link.active {
+        /*background-color: #495057 !important;*/
+        color: #495057 !important;
+        /*border-color: #dee2e6 !important;*/
+        font-weight: bold;
+    }
+
+.navbar-brand {
+    font-size: 1.6rem;
+    background-color: rgba(0, 0, 0, .25);
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
+}
+
+.navbar .form-control {
+    padding: 0.25rem 0.25rem;
+    border-width: 0;
+    border-radius: 0;
+}
+
+/*Estilos Sidebar*/
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100; /* Behind the navbar */
+    padding: 48px 0 0; /* Height of navbar */
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+}
+
+.sidebar-sticky {
+    position: relative;
+    top: 0;
+    height: calc(100vh - 48px);
+    padding-top: .5rem;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+}
+
+@supports ((position: -webkit-sticky) or (position: sticky)) {
+    .sidebar-sticky {
+        position: -webkit-sticky;
+        position: sticky;
+    }
+}
+
+.sidebar .nav-link {
+    font-weight: 500;
+    color: #333;
+}
+
+.sidebar .nav-link .feather {
+    margin-right: 4px;
+    color: #999;
+}
+
+.sidebar .nav-link.active {
+    color: #007bff;
+}
+
+.sidebar .nav-link:hover .feather,
+.sidebar .nav-link.active .feather {
+    color: inherit;
+}
+
+.sidebar-heading {
+    font-size: .75rem;
+    text-transform: uppercase;
+}
+
+/*Estilos modals*/
+
+.modal {
+    padding: 0rem !important;
+}
+
+.modal-dialog {
+    min-height: calc(100vh - 60px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    font-size: 0.75rem;
+}
+
+.modal-content {
+    max-height: 820px;
+    height: 540px !important;
+}
+
+/*.modal-xl {
+    max-width: 100% !important;
+    max-height: 100% !important;
+    width: 100% !important;
+    height: 100% !important;
+    padding: 0rem !important;
+    position: relative;
+    margin: 0rem !important;
+}*/
+
+.modal-header {
+    padding: 0.5rem !important;
+}
+
+.modal-footer {
+    padding: 0.5rem !important;
+}
+
+.modal-body {
+    padding: 0.5rem !important;
+}
+
+/*Estilos recuadros de alertas*/
+.AlertModal {
+    width: 100%;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+.AlertModal label {
+    margin-bottom: 0rem;
+}
+
+.AlertModal .message {
+    margin-left: 5px;
+}
+
+.AlertMainContainer {
+    width: 100%;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+.AlertMainContainer label {
+    margin-bottom: 0rem;
+}
+
+.AlertMainContainer .message {
+    margin-left: 5px;
+}
+
+/*Estilos de form-control*/
+.form-control {
+    font-size: 10pt !important;
+    padding: 0.25rem !important;
+}
+
+.form-control-dark {
+    color: #fff;
+    background-color: rgba(255, 255, 255, .1);
+    border-color: rgba(255, 255, 255, .1);
+}
+
+.form-control-dark:focus {
+    border-color: transparent;
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
+}
+
+/*Estilos de Content*/
+.ContentTable {
+    display: table;
+    table-layout: fixed;
+    word-wrap: break-word;
+    border-spacing: 5px;
+    width: 100%;
+}
+
+.ContentRow {
+    display: table-row;
+    word-wrap: break-word;
+}
+
+.ContentCell {
+    display: table-cell;
+    min-width: 50px;
+    max-width: 100%;
+    padding-right: 0.5rem;
+}
+
+.ContentFixCell {
+    display: table-cell;
+    min-width: 25px;
+    max-width: 25% !important;
+    padding-right: 0.5rem;
+    width: max-content !important;
+}
+
+.ContentContCell {
+    display: contents;
+    min-width: 25px;
+    max-width: 25% !important;
+    padding-right: 0.5rem;
+    width: max-content !important;
+}
+
+.FlexTable {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: baseline;
+    word-wrap: break-word;
+    border-spacing: 5px;
+    width: 100% !important;
+}
+
+.FlexRow {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: baseline;
+    width: 100% !important;
+    padding-bottom: 0.5rem;
+}
+
+.FlexCell {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: first baseline;
+    padding-right: 0.5rem;
+    width: auto !important;
+}
+
+.FlexCell label {
+    margin-bottom: 0.25rem;
+}
+
+/*html, Header, Body, Footer*/
+html {
+    font-size: 14px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 30px;
+    font-size: 0.75rem;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 30px; /* Vertically center the text there */
+}
+
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.main-wrapper {
+    height: 80vh;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.hint-icon {
+    color: #1b6ec2;
+    margin-left: 0.25rem;
+}
+
+.buttonMiniAdd {
+    position: relative;
+    border-color: #C1E0FF;
+    border-width: 2px; 
+    border-style: solid;
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.CustomWorking {
+    display: none;
+    position: fixed;
+    top: 0 !important;
+    left: 0 !important;
+    z-index: 9999;
+    height: 99.99%;
+    width: 99.99%;
+    opacity: 0.95;
+    font-size: 13pt;
+    font-weight: 900;
+    filter: alpha(opacity=50);
+    background-color: #000000;
+}
+
+.Absolute-Center {
+    width: 60%;
+    height: 60%;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border: solid transparent;
+}
+
+.DialogWindow {
+    display: none;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active {
+        -moz-transform: scale(0.95);
+        -webkit-transform: scale(0.95);
+        -o-transform: scale(0.95);
+        -ms-transform: scale(0.95);
+        transform: scale(0.95);
+}
+
+.feather {
+    width: 16px;
+    height: 16px;
+    vertical-align: text-bottom;
+}
+
+[role="main"] {
+    padding-top: 50px; /* Space for fixed navbar */
+}
+
+.fa {
+    font-size: 1rem;
+}
+
+.gvFilterRow {
+    padding: 0;
+}
+
+.HeaderPaciente {
+    position: relative;
+    padding: 0.25rem;
+    margin-bottom: 0.5rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    color: #141619;
+    background-color: #d3d3d4;
+    border-color: #bcbebf;
+}
+
+.card {
+    display: table-cell !important;
+}
+
+.card-body {
+    padding: 0.5rem !important;
+}
+
+.col-md-3 {
+    width: 20% !important;
+}
+
+.accordion-button {
+    padding: 0.5rem !important;
+}
+
+.accordion-body {
+    padding: 0.5rem !important;
+}
+
+@media (min-width: 640px) {
+    html {
+        font-size: 14px !important;
+    }
+
+    .nav-link {
+        font-size: 13px !important;
+    }
+
+    [role="main"] {
+        padding-top: 50px; /* Space for fixed navbar */
+    }
+
+    .card {
+        width: 150px !important;
+    }
+
+    .col-md-3 {
+        width: 15% !important;
+    }
+
+    .col-md-2 {
+        width: 15% !important;
+    }
+}
+
+@media (min-width: 720px) {
+    html {
+        font-size: 16px !important;
+    }
+
+    .modal-dialog {
+        min-height: calc(100vh - 20px);
+    }
+
+    .card {
+        width: 175px !important;
+    }
+
+    .col-md-3 {
+        width: 15% !important;
+    }
+
+    .nav-link {
+        font-size: 15px !important;
+    }
+}
+
+@media (min-width: 960px) {
+    .card {
+        width: 200px !important;
+    }
+}
+
+@media (min-width: 1367px) {
+    .card {
+        width: 250px !important;
+    }
+}
+
+.box-header {
+    color: #444;
+    display: block;
+    padding: 10px;
+    position: relative;
+    border-bottom: 1px solid #f4f4f4;
+    margin-bottom: 10px;
+}
+
+.box-tools {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+.dropzone-wrapper {
+    border: 2px dashed #91b0b3;
+    color: #92b0b3;
+    position: relative;
+    height: 150px;
+}
+
+.dropzone-desc {
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    width: 40%;
+    top: 50px;
+    font-size: 16px;
+}
+
+.dropzone,
+.dropzone:focus {
+    position: absolute;
+    outline: none !important;
+    width: 100%;
+    height: 150px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+.dropzone-wrapper:hover,
+.dropzone-wrapper.dragover {
+    background: #ecf0f5;
+}
+
+.preview-zone {
+    text-align: center;
+}
+
+.preview-zone .box {
+    box-shadow: none;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.preview-zone .box-body {
+    position: relative;
+    height: 300px !important;
+    margin-bottom: 1.5rem;
+    max-height: 300px !important;
+}

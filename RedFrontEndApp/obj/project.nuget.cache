@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6WshdCCOg4ieBgQEXXhZYgXIPz/dMU2wP7fcLISo9Fwumh6uTpSisuzvY9J81ErklyhMI3ihI7tjmt9Nl/GWWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\RedFrontEndApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmdel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

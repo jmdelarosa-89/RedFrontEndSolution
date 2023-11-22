@@ -1,0 +1,158 @@
+﻿    .mGrid 
+    {
+        width: 80%;
+        background-color: #FFF;
+        margin: 5px 10px;
+        font-family: tahoma, arial, helvetica !important;
+        text-align: left;
+        font-size:12px;
+        border: solid 1px #FFF;
+        border-collapse: collapse;
+        -webkit-border-radius: 5px; 
+        -moz-border-radius: 5px; 
+        border-radius: 5px; 
+
+        margin-top:15px;
+    }
+
+    .mGrid_Total
+    {
+        width: 80%;
+        background-color: #FFF;
+        margin: 5px 10px;
+        font-family: tahoma, arial, helvetica !important;
+        text-align: left;
+        font-size:12px;
+        font-weight:bold;
+        border: solid 1px #FFF;
+        border-collapse: collapse;
+        -webkit-border-radius: 5px; 
+        -moz-border-radius: 5px; 
+        border-radius: 5px; 
+        margin-top:15px;
+    }
+
+   .mGrid td {
+        padding: 2px;
+        border: 1px solid #FFF;
+        border-bottom: 1px solid #FFF;
+        color: #222222;
+    }
+
+   .mGrid th {
+        padding: .4em 1em;
+        color: #002f6c;
+        background:  #2191c0;
+        /*background:  #2191c0 url("humanity/images/ui-bg_glass_25_cb842e_1x400.png") 50% 50% repeat-x;*/
+        /*background:  #2191c0 url("start/images/ui-bg_gloss-wave_45_e14f1c_500x100.png") 50% 50% repeat-x;*/
+        background:  #2191c0 url("Redmond/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png") 50% 50% repeat-x;
+        border-left: solid 1px #FFF;
+        font-size: 0.9em;
+    }
+
+   .mGrid .alt {
+       border: 1px solid #FFF;
+	   /*background: #000 url("start/images/ui-bg_inset-hard_100_fcfdfd_1x100.png") 50% bottom repeat-x;*/
+        color: #222222;
+    }
+   .mGrid .alt2 {
+       border: 1px solid #FFF;
+        /* background: #000 url("start/images/ui-bg_gloss-wave_75_2191c0_500x100.png") 50% bottom repeat-x;*/
+	   color: #eaf5f7;
+    }
+
+   .mGrid .pgr {
+         padding: .4em 1em;
+        /*color: #FFF;*/
+        color: #eaf5f7;
+        /*background:  #2191c0 url("humanity/images/ui-bg_glass_25_cb842e_1x400.png") 50% 50% repeat-x;*/
+        /*background:   #002f6c url("start/images/ui-bg_gloss-wave_45_e14f1c_500x100.png") 50% 50% repeat-x;*/
+        background:  #2191c0 url("Redmond/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png") 50% 50% repeat-x;
+        border-left: solid 1px #002f6c;
+        font-size: 0.9em;
+        text-align:right;
+    }
+
+    .pgr a 
+    {
+        padding: .2em;
+        color: #ffd800;
+        border-left: solid 1px #FFF;
+        font-size: 1.0em;
+        cursor:pointer; 
+        text-decoration:underline;
+    }
+
+   .mGrid .pgr table {
+            margin: 5px 0;
+        }
+
+   .mGrid .pgr td {
+            border-width: 0;
+            padding: 0 6px;
+            border-left: solid 1px #666;
+            font-weight: bold;
+            color: #fff;
+            line-height: 12px;
+        }
+
+   .mGrid .pgr a {
+            color: #eaf5f7;
+            text-decoration: none;
+        }
+
+   .mGrid .pgr a:hover {
+                color: #000;
+                text-decoration: none;
+            }
+
+    .higher {
+       padding: .4em 1em;
+        color: #eaf5f7;
+        background:  #2191c0 url("images/ui-bg_glass_55_f8da4e_1x400.png") 50% 50% repeat-x;
+        border-left: solid 1px #FFF;
+        font-size: 0.9em;
+    }
+
+    .EditButton{
+	    cursor:pointer;
+	    width:40px;
+        display: table-cell;
+        padding: 2px;
+    }
+
+.TituloGridView
+{
+	font-weight: bold;
+	font-size: 15px;
+	color: #002f6c;
+	font-family: tahoma,arial,helvetica;
+	text-align: center;
+}
+.Fecha
+{
+    text-align: left;
+    font-size:12px;
+}
+
+.EditButton{
+	cursor:pointer;
+	width:10px !important;
+    height:15px !important;
+    display: table-cell;
+    padding: 2px;
+}
+.DeleteButton{
+	cursor:pointer;
+	width:10px !important;
+    height:15px !important;
+    display: table-cell;
+    padding: 2px;
+}
+
+.LinkGrid
+{
+    cursor: pointer;
+    color:#0000EE;
+    text-decoration:underline;
+}

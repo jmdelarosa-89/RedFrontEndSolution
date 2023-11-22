@@ -1,0 +1,2793 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RedFrontEndApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RedFrontEndApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker.standalone.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker.standalone.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker.standalone.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker.standalone.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker.standalone.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker.standalone.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker3.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker3.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker3.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker3.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker3.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker3.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker3.standalone.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker3.standalone.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker3.standalone.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker3.standalone.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datepicker3.standalone.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datepicker3.standalone.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-table.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-table.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-table.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-table.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Bootstrap\\typeahead.css",
+      "PackagePath": "staticwebassets\\css\\Bootstrap\\typeahead.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\ChartJS\\Chart.css",
+      "PackagePath": "staticwebassets\\css\\ChartJS\\Chart.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\ChartJS\\Chart.min.css",
+      "PackagePath": "staticwebassets\\css\\ChartJS\\Chart.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\Seguridad\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Seguridad\\Login.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-bg_diagonals-thick_90_eeeeee_40x40.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-bg_diagonals-thick_90_eeeeee_40x40.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-bg_flat_15_cd0a0a_40x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-bg_flat_15_cd0a0a_40x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-bg_glass_100_e4f1fb_1x400.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-bg_glass_100_e4f1fb_1x400.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-bg_glass_50_3baae3_1x400.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-bg_glass_50_3baae3_1x400.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-bg_glass_80_d7ebf9_1x400.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-bg_glass_80_d7ebf9_1x400.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-bg_highlight-hard_100_f2f5f7_1x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-bg_highlight-hard_100_f2f5f7_1x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-bg_highlight-hard_70_000000_1x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-bg_highlight-hard_70_000000_1x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-bg_highlight-soft_100_deedf7_1x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-bg_highlight-soft_100_deedf7_1x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-bg_highlight-soft_25_ffef8f_1x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-bg_highlight-soft_25_ffef8f_1x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-icons_2694e8_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-icons_2694e8_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-icons_3d80b3_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-icons_3d80b3_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-icons_72a7cf_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-icons_72a7cf_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Cupertino\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Cupertino\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\Redmond\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\css\\UI\\Redmond\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\grid.css",
+      "PackagePath": "staticwebassets\\css\\UI\\grid.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-bg_glass_100_f5f0e5_1x400.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-bg_glass_100_f5f0e5_1x400.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-bg_glass_25_cb842e_1x400.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-bg_glass_25_cb842e_1x400.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-bg_glass_70_ede4d4_1x400.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-bg_glass_70_ede4d4_1x400.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-bg_highlight-hard_100_f4f0ec_1x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-bg_highlight-hard_100_f4f0ec_1x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-bg_highlight-hard_65_fee4bd_1x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-bg_highlight-hard_65_fee4bd_1x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-bg_highlight-hard_75_f5f5b5_1x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-bg_highlight-hard_75_f5f5b5_1x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-bg_inset-soft_100_f4f0ec_1x100.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-bg_inset-soft_100_f4f0ec_1x100.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-icons_c47a23_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-icons_c47a23_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-icons_cb672b_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-icons_cb672b_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-icons_f08000_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-icons_f08000_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-icons_f35f07_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-icons_f35f07_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-icons_ff7519_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-icons_ff7519_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\index.html",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\index.html"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\UI\\humanity\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\css\\UI\\humanity\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\WeekLine\\cleanslate.css",
+      "PackagePath": "staticwebassets\\css\\WeekLine\\cleanslate.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\WeekLine\\jquery.weekLine-dark.css",
+      "PackagePath": "staticwebassets\\css\\WeekLine\\jquery.weekLine-dark.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\WeekLine\\jquery.weekLine-white.css",
+      "PackagePath": "staticwebassets\\css\\WeekLine\\jquery.weekLine-white.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\WeekLine\\jquery.weekLine.css",
+      "PackagePath": "staticwebassets\\css\\WeekLine\\jquery.weekLine.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\jquery.timepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\bootstrap-table.eot",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-table.eot"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\bootstrap-table.svg",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-table.svg"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\bootstrap-table.ttf",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-table.ttf"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\bootstrap-table.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-table.woff"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\images\\NoProfilePicture.jpg",
+      "PackagePath": "staticwebassets\\images\\NoProfilePicture.jpg"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\images\\gif\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\gif\\loading.gif"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\js\\ListadoUsuarios.js",
+      "PackagePath": "staticwebassets\\js\\ListadoUsuarios.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\js\\Login.js",
+      "PackagePath": "staticwebassets\\js\\Login.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\js\\UsuarioForm.js",
+      "PackagePath": "staticwebassets\\js\\UsuarioForm.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\js\\layout.js",
+      "PackagePath": "staticwebassets\\js\\layout.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\ChartJS\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\ChartJS\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\ChartJS\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\ChartJS\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\ChartJS\\Chart.js",
+      "PackagePath": "staticwebassets\\lib\\ChartJS\\Chart.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\ChartJS\\Chart.min.js",
+      "PackagePath": "staticwebassets\\lib\\ChartJS\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\IO\\JSIO.js",
+      "PackagePath": "staticwebassets\\lib\\IO\\JSIO.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\IO\\ShotCuts.js",
+      "PackagePath": "staticwebassets\\lib\\IO\\ShotCuts.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\IO\\ValidateNavi.js",
+      "PackagePath": "staticwebassets\\lib\\IO\\ValidateNavi.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\IO\\md5.js",
+      "PackagePath": "staticwebassets\\lib\\IO\\md5.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\WeekLine\\jquery.weekLine.js",
+      "PackagePath": "staticwebassets\\lib\\WeekLine\\jquery.weekLine.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\WeekLine\\jquery.weekLine.min.js",
+      "PackagePath": "staticwebassets\\lib\\WeekLine\\jquery.weekLine.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap-datetimepicker.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\createPopper.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\createPopper.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\createPopper.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\createPopper.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\__snapshots__\\getWindowScroll.test.js.snap",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\__snapshots__\\getWindowScroll.test.js.snap"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\contains.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\contains.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\contains.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\contains.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getBoundingClientRect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getBoundingClientRect.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getClippingRect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getClippingRect.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getCompositeRect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getCompositeRect.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getComputedStyle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getComputedStyle.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getDocumentElement.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getDocumentElement.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getDocumentRect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getDocumentRect.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getHTMLElementScroll.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getHTMLElementScroll.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getLayoutRect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getLayoutRect.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getNodeName.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getNodeName.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getNodeScroll.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getNodeScroll.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getOffsetParent.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getOffsetParent.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getParentNode.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getParentNode.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getParentNode.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getParentNode.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getScrollParent.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getScrollParent.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getViewportRect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getViewportRect.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getWindow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getWindow.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getWindowScroll.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getWindowScroll.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getWindowScroll.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getWindowScroll.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\getWindowScrollBarX.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\getWindowScrollBarX.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\instanceOf.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\instanceOf.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\isScrollParent.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\isScrollParent.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\isTableElement.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\isTableElement.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\dom-utils\\listScrollParents.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dom-utils\\listScrollParents.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\enums.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\enums.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\enums.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\enums.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\enums.js.flow",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\enums.js.flow"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\enums.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\enums.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper-base.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper-base.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper-base.js.flow",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper-base.js.flow"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper-base.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper-base.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper-lite.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper-lite.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper-lite.js.flow",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper-lite.js.flow"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper-lite.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper-lite.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper-utils.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper-utils.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper.js.flow",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper.js.flow"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\esm\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\esm\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\index.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\__snapshots__\\computeStyles.test.js.snap",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\__snapshots__\\computeStyles.test.js.snap"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\__snapshots__\\offset.test.js.snap",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\__snapshots__\\offset.test.js.snap"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\applyStyles.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\applyStyles.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\applyStyles.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\applyStyles.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\arrow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\arrow.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\arrow.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\arrow.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\computeStyles.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\computeStyles.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\computeStyles.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\computeStyles.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\eventListeners.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\eventListeners.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\flip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\flip.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\hide.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\hide.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\index.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\offset.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\offset.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\offset.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\popperOffsets.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\popperOffsets.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\modifiers\\preventOverflow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\modifiers\\preventOverflow.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\popper-base.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\popper-base.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\popper-lite.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\popper-lite.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\popper-utils.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\popper-utils.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\popper.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\popper.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\popper.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\index.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\methods\\defaults.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\methods\\defaults.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\methods\\destroy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\methods\\destroy.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\methods\\disableEventListeners.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\methods\\disableEventListeners.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\methods\\enableEventListeners.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\methods\\enableEventListeners.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\methods\\placements.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\methods\\placements.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\methods\\update.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\methods\\update.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\applyStyle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\applyStyle.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\arrow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\arrow.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\computeStyle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\computeStyle.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\flip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\flip.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\hide.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\hide.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\index.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\inner.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\inner.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\keepTogether.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\keepTogether.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\offset.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\preventOverflow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\preventOverflow.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\modifiers\\shift.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\modifiers\\shift.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\clockwise.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\clockwise.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\computeAutoPlacement.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\computeAutoPlacement.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\debounce.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\debounce.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\find.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\find.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\findCommonOffsetParent.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\findCommonOffsetParent.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\findIndex.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\findIndex.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getBordersSize.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getBordersSize.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getBoundaries.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getBoundaries.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getBoundingClientRect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getBoundingClientRect.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getClientRect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getClientRect.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getFixedPositionOffsetParent.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getFixedPositionOffsetParent.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getOffsetParent.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getOffsetParent.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getOffsetRect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getOffsetRect.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getOffsetRectRelativeToArbitraryNode.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getOffsetRectRelativeToArbitraryNode.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getOppositePlacement.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getOppositePlacement.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getOppositeVariation.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getOppositeVariation.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getOuterSizes.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getOuterSizes.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getParentNode.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getParentNode.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getPopperOffsets.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getPopperOffsets.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getReferenceNode.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getReferenceNode.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getReferenceOffsets.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getReferenceOffsets.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getRoot.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getRoot.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getRoundedOffsets.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getRoundedOffsets.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getScroll.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getScroll.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getScrollParent.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getScrollParent.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getStyleComputedProperty.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getStyleComputedProperty.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getSupportedPropertyName.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getSupportedPropertyName.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getViewportOffsetRectRelativeToArtbitraryNode.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getViewportOffsetRectRelativeToArtbitraryNode.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getWindow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getWindow.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\getWindowSizes.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\getWindowSizes.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\includeScroll.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\includeScroll.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\index.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\isBrowser.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\isBrowser.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\isFixed.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\isFixed.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\isFunction.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\isFunction.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\isIE.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\isIE.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\isModifierEnabled.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\isModifierEnabled.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\isModifierRequired.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\isModifierRequired.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\isNumeric.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\isNumeric.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\isOffsetContainer.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\isOffsetContainer.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\removeEventListeners.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\removeEventListeners.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\runModifiers.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\runModifiers.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\setAttributes.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\setAttributes.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\setStyles.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\setStyles.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\src\\utils\\setupEventListeners.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\src\\utils\\setupEventListeners.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\typeahead.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\typeahead.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\types.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\types.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\enums.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\enums.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\enums.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\enums.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\enums.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\enums.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\enums.min.js.flow",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\enums.min.js.flow"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\enums.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\enums.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-base.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-base.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-base.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-base.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-base.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-base.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-base.min.js.flow",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-base.min.js.flow"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-base.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-base.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-lite.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-lite.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-lite.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-lite.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-lite.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-lite.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-lite.min.js.flow",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-lite.min.js.flow"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-lite.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-lite.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-utils.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-utils.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper.js.flow",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper.js.flow"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper.min.js.flow",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper.min.js.flow"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\umd\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\__snapshots__\\computeAutoPlacement.test.js.snap",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\__snapshots__\\computeAutoPlacement.test.js.snap"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\__snapshots__\\computeOffsets.test.js.snap",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\__snapshots__\\computeOffsets.test.js.snap"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\__snapshots__\\expandToHashMap.test.js.snap",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\__snapshots__\\expandToHashMap.test.js.snap"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\__snapshots__\\mergeByName.test.js.snap",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\__snapshots__\\mergeByName.test.js.snap"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\__snapshots__\\orderModifiers.test.js.snap",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\__snapshots__\\orderModifiers.test.js.snap"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\computeAutoPlacement.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\computeAutoPlacement.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\computeAutoPlacement.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\computeAutoPlacement.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\computeOffsets.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\computeOffsets.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\computeOffsets.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\computeOffsets.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\debounce.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\debounce.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\debounce.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\debounce.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\detectOverflow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\detectOverflow.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\expandToHashMap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\expandToHashMap.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\expandToHashMap.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\expandToHashMap.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\format.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\format.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getAltAxis.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getAltAxis.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getAltAxis.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getAltAxis.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getAltLen.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getAltLen.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getAltLen.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getAltLen.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getBasePlacement.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getBasePlacement.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getBasePlacement.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getBasePlacement.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getFreshSideObject.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getFreshSideObject.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getMainAxisFromPlacement.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getMainAxisFromPlacement.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getOppositePlacement.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getOppositePlacement.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getOppositeVariationPlacement.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getOppositeVariationPlacement.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getVariation.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getVariation.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\getVariation.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\getVariation.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\math.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\math.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\mergeByName.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\mergeByName.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\mergeByName.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\mergeByName.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\mergePaddingObject.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\mergePaddingObject.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\orderModifiers.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\orderModifiers.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\orderModifiers.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\orderModifiers.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\rectToClientRect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\rectToClientRect.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\uniqueBy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\uniqueBy.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\uniqueBy.test.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\uniqueBy.test.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\validateModifiers.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\validateModifiers.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\bootstrap\\utils\\within.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\utils\\within.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\fullcalendar\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\fullcalendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\gridView\\DateTime.js",
+      "PackagePath": "staticwebassets\\lib\\gridView\\DateTime.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\gridView\\GridViews.js",
+      "PackagePath": "staticwebassets\\lib\\gridView\\GridViews.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\gridView\\JSON-js-master\\README",
+      "PackagePath": "staticwebassets\\lib\\gridView\\JSON-js-master"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\gridView\\JSON-js-master\\cycle.js",
+      "PackagePath": "staticwebassets\\lib\\gridView\\JSON-js-master\\cycle.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\gridView\\JSON-js-master\\json.js",
+      "PackagePath": "staticwebassets\\lib\\gridView\\JSON-js-master\\json.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\gridView\\JSON-js-master\\json2.js",
+      "PackagePath": "staticwebassets\\lib\\gridView\\JSON-js-master\\json2.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\gridView\\JSON-js-master\\json_parse.js",
+      "PackagePath": "staticwebassets\\lib\\gridView\\JSON-js-master\\json_parse.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\gridView\\JSON-js-master\\json_parse_state.js",
+      "PackagePath": "staticwebassets\\lib\\gridView\\JSON-js-master\\json_parse_state.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_az.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_bn_BD.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_bn_BD.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_bn_BD.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_da.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_de.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_el.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_es.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_es_AR.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_es_AR.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_es_AR.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_es_AR.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_es_PE.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_es_PE.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_es_PE.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_es_PE.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_et.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_he.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_hy_AM.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_hy_AM.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_hy_AM.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_hy_AM.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_id.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_is.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_it.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_my.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_no.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_pt_BR.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_pt_BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_pt_BR.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_pt_PT.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_pt_PT.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_pt_PT.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_si.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_th.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_zh_TW.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\messages_zh_TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\messages_zh_TW.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_de.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_es_CL.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_es_CL.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_es_CL.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_es_CL.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_it.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\Validation\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\Validation\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\datepicker-es.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\datepicker-es.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery-3.0.0-vsdoc.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.0.0-vsdoc.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery-3.0.0.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.0.0.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery-3.0.0.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.0.0.min.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery-3.0.0.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.0.0.slim.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery-3.0.0.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.0.0.slim.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery-3.0.0.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.0.0.slim.min.map"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery-ui.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-ui.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.timepicker.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.timepicker.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.ui.core.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.ui.core.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.ui.core.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.ui.core.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.validate-vsdoc.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.validate-vsdoc.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\jquery\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\af.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\af.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ar.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\bg.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\bs.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ca.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\cs.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\da.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\da.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\de-at.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\de.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\de.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\el.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\el.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\en-au.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\en-ie.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\en-nz.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\es-do.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\es-us.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\es.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\es.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\et.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\et.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\eu.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\fa.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\fi.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\fr.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\gl.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\he.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\he.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\hi.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\hr.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\hu.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\id.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\id.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\is.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\is.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\it.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\it.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ja.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ka.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\kk.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ko.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\lb.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\lt.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\lv.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\mk.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ms-my.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ms.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\nb.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\nl-be.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\nl.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\nn.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\pl.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\pt.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ro.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\ru.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\sk.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\sl.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\sq.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\sr.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\sv.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\th.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\th.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\tr.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\uk.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\vi.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\lib\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\modernizr-2.6.2.js",
+      "PackagePath": "staticwebassets\\lib\\modernizr-2.6.2.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\moment.js",
+      "PackagePath": "staticwebassets\\lib\\moment.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\deflate.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\deflate.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\dist\\pako.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\dist\\pako.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\dist\\pako.min.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\dist\\pako.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\dist\\pako_deflate.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\dist\\pako_deflate.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\dist\\pako_deflate.min.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\dist\\pako_deflate.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\dist\\pako_inflate.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\dist\\pako_inflate.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\dist\\pako_inflate.min.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\dist\\pako_inflate.min.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\inflate.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\inflate.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\utils\\common.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\utils\\common.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\utils\\encoding-indexes.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\utils\\encoding-indexes.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\utils\\encoding.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\utils\\encoding.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\utils\\strings.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\utils\\strings.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\README",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\adler32.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\adler32.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\constants.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\constants.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\crc32.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\crc32.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\deflate.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\deflate.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\gzheader.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\gzheader.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\inffast.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\inffast.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\inflate.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\inflate.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\inftrees.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\inftrees.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\messages.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\messages.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\trees.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\trees.js"
+    },
+    {
+      "Id": "C:\\Sources\\Entrevistas\\Redbrow\\RedFrontEndSolution\\RedFrontEndApp\\wwwroot\\lib\\pako\\zlib\\zstream.js",
+      "PackagePath": "staticwebassets\\lib\\pako\\zlib\\zstream.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RedFrontEndApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RedFrontEndApp.props",
+      "PackagePath": "build\\RedFrontEndApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RedFrontEndApp.props",
+      "PackagePath": "buildMultiTargeting\\RedFrontEndApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RedFrontEndApp.props",
+      "PackagePath": "buildTransitive\\RedFrontEndApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

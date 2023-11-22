@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title</title>
+    @*Banda, el orden en que estan las las libs JS es importante, sino BS y JQ se empiezan a matar entre ellos.*@
+    <link href="@Url.Content("~/css/bootstrap/Bootstrap.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/css/Bootstrap/bootstrap-utilities.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/css/Bootstrap/bootstrap-grid.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/css/Site.css")" rel="stylesheet" />
+
+    <script src="@Url.Content("~/lib/Jquery/jquery.js")"></script>
+    <script src="@Url.Content("~/lib/Jquery/jquery.validate-vsdoc.js")"></script>
+    <script src="@Url.Content("~/lib/Jquery/jquery.validate.unobtrusive.min.js")"></script>
+    <script src="@Url.Content("~/lib/Bootstrap/umd/popper.js")"></script>
+    <script src="@Url.Content("~/lib/Bootstrap/umd/popper-base.js")"></script>
+    <script src="@Url.Content("~/lib/Bootstrap/bootstrap.js")"></script>
+
+    @*Librerias para tabajar con archivos compresos*@
+    <script src="@Url.Content("~/lib/pako/utils/encoding-indexes.js")"></script>
+    <script src="@Url.Content("~/lib/pako/utils/encoding.js")"></script>
+    <script src="@Url.Content("~/lib/pako/dist/pako.js")"></script>
+
+    @* No borrar estos, son los que permiten poner las secuencias check en las validaciones-->*@
+    <script src="@Url.Content("~/lib/Jquery/jquery-ui.js")"></script>
+    <link href="@Url.Content("~/css/UI/Cupertino/jquery-ui.css")" rel="stylesheet" />
+    @*----------------------------------------------------------------------------------------*@
+
+    <link href="@Url.Content("~/css/font-awesome.css")" rel="stylesheet" />
+    <script src="@Url.Content("~/lib/gridView/GridViews.js")"></script>
+    <script src="@Url.Content("~/js/layout.js")"></script>
+
+</head>
+<body>
+    <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+        <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">RedTest</a>
+        <div class="w-100"></div>
+        <ul class="navbar-nav px-3">
+            <li class="nav-item text-nowrap">
+            </li>
+        </ul>
+    </nav>
+
+    <div class="container-fluid">
+        @using Microsoft.AspNetCore.Http;
+        @inject IHttpContextAccessor HttpContextAccessor
+        @{
+            @RenderBody()
+        }
+    </div>
+
+    <div id="ChkPages" class="CustomWorking" @*style="display:block!important;"*@>
+        <div class="Absolute-Center" style="overflow:hidden;">
+            <div style="position:relative; top:40% !important;">
+                <img id="Infinito2" style="height:10% !important;" src="~/images/gif/loading.gif" /><br />
+                <a id="CustomWorking_SMS" data-default="Un Momento Por Favor" style="color:#ffffff">Un Momento Por Favor</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,67 @@
+﻿@model RedFrontEndApp.Models.UsuarioModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="@Url.Content("~/js/UsuarioForm.js")"></script>
+
+@*Div Principal*@
+<div class="ChildContent">
+    <br />
+    <br />
+    <div id="Formulario" class="table-responsive-sm shadow p-3 mb-3 bg-white rounded mb-1">
+        <h4 class="w-100 p-2">@ViewBag.Title</h4>
+
+        <div id="AlertMainContainer" class="AlertMainContainer" style="display:none;"></div>
+    @using (Html.BeginForm("", "", FormMethod.Post, new { id = "FrmAltaUsuario", name = "FrmAltaUsuario" }))
+    {
+    <div class="ContentTable">
+        <div class="ContentRow">
+            <div class="ContentCell text-left">
+                @Html.TextBoxFor(m => m.Nombre, new { @placeholder = "Nombre", @class = "fadeIn second form-control" })<br />
+                @Html.ValidationMessageFor(m => m.Nombre)
+            </div>
+            <div class="ContentCell text-left">
+                @Html.TextBoxFor(m => m.ApellidoPaterno, new { @placeholder = "Apellido paterno", @class = "fadeIn second form-control" })<br />
+                @Html.ValidationMessageFor(m => m.ApellidoPaterno)
+            </div>
+            <div class="ContentCell text-left">
+                @Html.TextBoxFor(m => m.ApellidoMaterno, new { @placeholder = "Apellido materno", @class = "fadeIn second form-control" })<br />
+                @Html.ValidationMessageFor(m => m.ApellidoMaterno)
+            </div>
+        </div>
+        <div class="ContentRow">
+            <div class="ContentCell text-left">
+                        @Html.TextBoxFor(m => m.FechaNacimiento, new { @placeholder = "Fecha nacimiento", @class = "fadeIn second form-control datepicker" })<br />
+                        @Html.ValidationMessageFor(m => m.FechaNacimiento)
+                        
+                        
+            </div>
+            <div class="ContentCell text-left">
+                @Html.TextBoxFor(m => m.Telefono, new { @placeholder = "Teléfono", @class = "fadeIn second form-control" })<br />
+                @Html.ValidationMessageFor(m => m.Telefono)
+            </div>
+            <div class="ContentCell text-left">
+                @Html.TextBoxFor(m => m.Email, new { @placeholder = "Correo electrónico", @class = "fadeIn second form-control" })<br />
+                @Html.ValidationMessageFor(m => m.Email)
+            </div>
+        </div>
+        <div class="ContentRow">
+            <div class="ContentCell text-left">
+                        @if (@ViewBag.UsuarioId > 0)
+                        {
+                            @Html.HiddenFor(m=>m.UsuarioId)
+                        }
+                        <input type="hidden" id="temp" name="temp" value="@ViewBag.UsuarioId" />
+            </div>
+            <div class="ContentCell text-left">
+                <button id="Cmd_Cancela" class="btn btn-danger"><i class="fa fa-ban"></i> Cancelar</button>
+            </div>
+            <div class="ContentCell text-right">
+                <button id="Cmd_Guardar" data-url="Usuario" class="btn btn-success"><i class="fa fa-save"></i> Registrar</button>                        
+            </div>
+        </div>
+    </div>
+    }
+    </div>
+</div>
